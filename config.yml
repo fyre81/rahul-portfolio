@@ -1,5 +1,5 @@
-baseURL: "https://magsther.github.io/"
-title: O11y Cloud.com
+baseURL: "https://fyre81.github.io/rahul-portfolio"
+title: RahulSa.com
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: O11y Cloud.com
-  description: "Welcome to O11yCloud.com"
+  title: RahulSa.com
+  description: "Welcome to RahulSa.com"
   keywords: [Blog, Portfolio, Observability]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -125,7 +125,7 @@ menu:
     #  weight: 20
     - identifier: example
       name: Me on Medium
-      url: https://medium.com/@magstherdev
+      url: RahulSa.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
